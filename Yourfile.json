@@ -16,5 +16,11 @@
         "key": "Flaming001",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ab6386e36c84db4e",
+        "key": "Kalal001",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
